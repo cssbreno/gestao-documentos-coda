@@ -14,7 +14,7 @@ Sistema de Gestão Eletrônica de Documentos (GED) no-code desenvolvido no Coda,
 
 - [Sobre o projeto](#-sobre-o-projeto)  
 - [Funcionalidades principais](#-funcionalidades-principais)  
-- [Interface do sistema](#-interface-do-sistema)  
+- [Interface do sistema](#interface-do-sistema)
 - [Tecnologias e ferramentas](#-tecnologias-e-ferramentas)  
 - [Possibilidades de evolução](#-possibilidades-de-evolução)  
 - [Termos de uso](#-termos-de-uso)  
@@ -40,7 +40,7 @@ Este projeto foi desenvolvido com o objetivo de criar um sistema GED funcional, 
 
 ---
 
-## 🖥️ Interface do sistema
+<h2 id="interface-do-sistema">🖥️ Interface do sistema</h2>
 
 ![Screenshot do sistema](./print-interface.png)  
 *Visão geral da interface amigável, com painéis e controles para acompanhar o status dos documentos.*
