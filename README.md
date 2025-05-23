@@ -42,7 +42,7 @@ Este projeto foi desenvolvido com o objetivo de criar um sistema GED funcional, 
 
 <h2 id="interface-do-sistema">🖥️ Interface do sistema</h2>
 
-![Screenshot do sistema](./print-interface.png)  
+![Screenshot do sistema](./assets/print-interface.png)  
 *Visão geral da interface amigável, com painéis e controles para acompanhar o status dos documentos.*
 
 ---
